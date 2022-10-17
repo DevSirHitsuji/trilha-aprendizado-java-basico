@@ -1,0 +1,12 @@
+#compiled Class File
+*.class
+
+#log file
+*.log
+
+#bluej files
+*.ctxt
+
+# Mobile tools for java 
+
+.mtj.tmp/ 
