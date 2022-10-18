@@ -1,0 +1,50 @@
+tipos primitivos
+classifiações
+escopo de uso
+Palavras "opostas"
+
+
+*Controle de pacotes*
+import
+package
+
+*modificadores de acesso*
+public
+private
+protected
+
+*primitivos*
+boolean
+byte
+char 
+double
+float
+int
+short 
+void 
+long
+
+*modificadores de classes, variaveis ou metodos*
+abstract
+class 
+extends
+final
+implements
+inteface
+native
+new
+static
+strictfp
+synchronized
+transient
+volatile
+
+*controle de fluxo dentro de um bloco de codigo*
+break
+case
+continue
+
+*variaveis de referencia*
+super
+this
+
