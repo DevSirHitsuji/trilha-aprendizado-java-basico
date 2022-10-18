@@ -1,0 +1,7 @@
+Documentação oficial
+Tags
+Tipos de comentarios
+Javadoc
+comando para gerar doc: javadoc -encoding UTF-8 -d ocencoding ISO-8859-1 -d ../docs src/*.java
+
+*utilizei como exemplo as aulas de metodos*
