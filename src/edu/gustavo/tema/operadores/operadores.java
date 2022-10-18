@@ -15,7 +15,7 @@ public class operadores {
         soma *= 2;
         soma /= 4;
         soma ++;
-        System.out.println(soma);
+        System.out.println(num + soma + subtracao);
 
         //operadores relacionais
         boolean resultado = 10 == 1;
@@ -25,7 +25,7 @@ public class operadores {
         resultado = 1 >= 2;
         resultado = 1 <= 2;
 
-        //operadores logicos
+        System.out.println(resultado);
         boolean condicao1 = true, condicao2 = false;
 
         if(condicao1 && condicao2){
